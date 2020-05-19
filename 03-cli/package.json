@@ -1,0 +1,7 @@
+{
+  "name": "cli-helpers",
+  "bin": {
+    "ipaddr": "ipaddr.js",
+    "mem": "mem.js"
+  }
+}
